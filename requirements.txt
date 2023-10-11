@@ -1,5 +1,5 @@
 six
-python-docx
+python-docx==0.8.11
 docxcompose
 jinja2
 lxml
